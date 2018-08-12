@@ -1,0 +1,10 @@
+strictfp
+	for perfect and in point ans in 32-64 bit
+	no need to write in sub class only write in parent class
+	
+	strictfp void data()
+	{
+	}
+	
+	Access Modifier
+	private<default<protected<public
