@@ -8,3 +8,15 @@ strictfp
 	
 	Access Modifier
 	private<default<protected<public
+	
+	animation: name duration(s) infinite
+	
+	@media only screen and(max:)and(min:)
+	{
+	
+	}
+	
+	class:animeted name 
+	
+	icon size = fa5x
+	
